@@ -1,1 +1,1 @@
-# Forming-a-Magic-Square
+# Forming-a-Magic-Square This code calculates the minimum cost to convert a 3x3 matrix into a magic square by comparing it against all 8 possible 3x3 magic square configurations and summing the absolute differences for each cell. It returns the smallest total difference as the minimum transformation cost.
